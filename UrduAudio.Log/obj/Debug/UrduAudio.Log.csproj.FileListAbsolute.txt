@@ -1,0 +1,7 @@
+D:\UrduAudio\UrduAudio.Global\UrduAudio.Log\bin\Debug\UrduAudio.Log.dll
+D:\UrduAudio\UrduAudio.Global\UrduAudio.Log\bin\Debug\UrduAudio.Log.pdb
+D:\UrduAudio\UrduAudio.Global\UrduAudio.Log\bin\Debug\log4net.dll
+D:\UrduAudio\UrduAudio.Global\UrduAudio.Log\bin\Debug\log4net.xml
+D:\UrduAudio\UrduAudio.Global\UrduAudio.Log\obj\Debug\UrduAudio.Log.dll
+D:\UrduAudio\UrduAudio.Global\UrduAudio.Log\obj\Debug\UrduAudio.Log.pdb
+D:\UrduAudio\UrduAudio.Global\UrduAudio.Log\obj\Debug\UrduAudio.Log.csprojResolveAssemblyReference.cache

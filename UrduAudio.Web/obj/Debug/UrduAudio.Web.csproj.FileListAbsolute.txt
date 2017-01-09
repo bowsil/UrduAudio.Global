@@ -1,0 +1,14 @@
+D:\UrduAudio\UrduAudio.Global\UrduAudio.Web\bin\UrduAudio.Web.dll.config
+D:\UrduAudio\UrduAudio.Global\UrduAudio.Web\bin\UrduAudio.Web.dll
+D:\UrduAudio\UrduAudio.Global\UrduAudio.Web\bin\UrduAudio.Web.pdb
+D:\UrduAudio\UrduAudio.Global\UrduAudio.Web\obj\Debug\UrduAudio.Web.csprojResolveAssemblyReference.cache
+D:\UrduAudio\UrduAudio.Global\UrduAudio.Web\obj\Debug\UrduAudio.Web.dll
+D:\UrduAudio\UrduAudio.Global\UrduAudio.Web\obj\Debug\UrduAudio.Web.pdb
+D:\UrduAudio\UrduAudio.Global\UrduAudio.Web\bin\UrduAudio.BL.dll
+D:\UrduAudio\UrduAudio.Global\UrduAudio.Web\bin\UrduAudio.Global.dll
+D:\UrduAudio\UrduAudio.Global\UrduAudio.Web\bin\UrduAudio.Log.dll
+D:\UrduAudio\UrduAudio.Global\UrduAudio.Web\bin\log4net.dll
+D:\UrduAudio\UrduAudio.Global\UrduAudio.Web\bin\UrduAudio.BL.pdb
+D:\UrduAudio\UrduAudio.Global\UrduAudio.Web\bin\UrduAudio.Global.pdb
+D:\UrduAudio\UrduAudio.Global\UrduAudio.Web\bin\UrduAudio.Log.pdb
+D:\UrduAudio\UrduAudio.Global\UrduAudio.Web\bin\log4net.xml

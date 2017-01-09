@@ -1,0 +1,5 @@
+D:\UrduAudio\UrduAudio.Global\UrduAudio.DAL\bin\Debug\UrduAudio.DAL.dll
+D:\UrduAudio\UrduAudio.Global\UrduAudio.DAL\bin\Debug\UrduAudio.DAL.pdb
+D:\UrduAudio\UrduAudio.Global\UrduAudio.DAL\obj\Debug\UrduAudio.DAL.csprojResolveAssemblyReference.cache
+D:\UrduAudio\UrduAudio.Global\UrduAudio.DAL\obj\Debug\UrduAudio.DAL.dll
+D:\UrduAudio\UrduAudio.Global\UrduAudio.DAL\obj\Debug\UrduAudio.DAL.pdb

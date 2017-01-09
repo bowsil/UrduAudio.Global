@@ -1,0 +1,4 @@
+D:\UrduAudio\UrduAudio.Global\UrduAudio.Global\bin\Debug\UrduAudio.Global.dll
+D:\UrduAudio\UrduAudio.Global\UrduAudio.Global\bin\Debug\UrduAudio.Global.pdb
+D:\UrduAudio\UrduAudio.Global\UrduAudio.Global\obj\Debug\UrduAudio.Global.dll
+D:\UrduAudio\UrduAudio.Global\UrduAudio.Global\obj\Debug\UrduAudio.Global.pdb
