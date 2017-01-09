@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{C4670469-7573-49DB-B15C-AA9DA028E998}</ProjectGuid>
+    <ProjectGuid>{507F873A-E61C-4502-A22F-54BB2949B1DD}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>UrduAudio.Global</RootNamespace>
-    <AssemblyName>UrduAudio.Global</AssemblyName>
+    <RootNamespace>UrduAudio.BL</RootNamespace>
+    <AssemblyName>UrduAudio.BL</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
